@@ -1,6 +1,1 @@
-# DENEME
-
-## ALT BILGI
-
-LOREM IPSUMDDC 
-,hghgg
+# deneme
